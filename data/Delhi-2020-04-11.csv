@@ -1,0 +1,12 @@
+District,State,Confirmed,Recovered,Deaths,Active,Delta_Confirmed,Delta_Recovered,Delta_Deaths,Last_Updated_Time
+Central Delhi,Delhi,0,0,0,0,0,0,,
+East Delhi,Delhi,1,0,0,1,0,0,,
+New Delhi,Delhi,5,0,0,5,0,0,,
+North Delhi,Delhi,3,0,0,3,0,0,,
+North East Delhi,Delhi,1,0,0,1,0,0,,
+North West Delhi,Delhi,3,0,0,3,0,0,,
+Shahdara,Delhi,0,0,0,0,0,0,,
+South Delhi,Delhi,26,0,0,26,0,0,,
+South East Delhi,Delhi,0,0,0,0,0,0,,
+South West Delhi,Delhi,3,0,0,3,0,0,,
+West Delhi,Delhi,2,0,0,2,0,0,,
